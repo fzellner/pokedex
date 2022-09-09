@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/pokedexDataTitleTextView"
+        android:text="Pokédex Data"
+        android:textColor="@color/green"
+        android:layout_marginStart="40dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fontFamily="@font/sfpro_medium"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+
+
+    <Space
+        android:id="@+id/divider"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginStart  ="40dp"
+        app:layout_constraintStart_toEndOf="@+id/speciesLabelTextView"
+        app:layout_constraintTop_toTopOf="@+id/speciesLabelTextView" />
+
+    <TextView
+        android:id="@+id/speciesLabelTextView"
+        android:textColor="#17171b"
+        app:layout_constraintTop_toBottomOf="@id/pokedexDataTitleTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="Species"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="22dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        app:layout_constraintTop_toTopOf="@id/speciesLabelTextView"
+        app:layout_constraintBottom_toBottomOf="@id/speciesLabelTextView"
+        app:layout_constraintStart_toEndOf="@id/divider"
+        android:text="Seed Pokemon"
+        android:layout_marginStart="40dp"
+        android:id="@+id/speciesTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/heightabelTextView"
+        android:textColor="#17171b"
+        app:layout_constraintTop_toBottomOf="@id/speciesLabelTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="Height"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="22dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        app:layout_constraintTop_toTopOf="@id/heightabelTextView"
+        app:layout_constraintBottom_toBottomOf="@id/heightabelTextView"
+        app:layout_constraintStart_toEndOf="@id/divider"
+        android:text="0.7m"
+        android:layout_marginStart="40dp"
+        android:id="@+id/heightTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/weightabelTextView"
+        android:textColor="#17171b"
+        app:layout_constraintTop_toBottomOf="@id/heightabelTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="Weight"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="22dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        app:layout_constraintTop_toTopOf="@id/weightabelTextView"
+        app:layout_constraintBottom_toBottomOf="@id/weightabelTextView"
+        app:layout_constraintStart_toEndOf="@id/divider"
+        android:text="6.9kg"
+        android:layout_marginStart="40dp"
+        android:id="@+id/weightTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

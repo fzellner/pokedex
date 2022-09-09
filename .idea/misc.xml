@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/java/com/fzellner/pokedex/ui/detail/compose/AboutComponent.kt" value="1.2748344370860927" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3035" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/grass_pokemon_backgrond.xml" value="0.22" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/home_background.xml" value="0.205" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3035" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/ic_pattern_transparent.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/ic_pokeball.xml" value="0.3035" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/ic_pokeball_transparent.xml" value="0.138" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_adapter_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_bug_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_dark_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_dragon_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_electric_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_fairy_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_fighter_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_fire_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_flying_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_ghost_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_ground_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_ice_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_normal_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_poison_backgrond.xml" value="0.1075" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_psychic_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_rock_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_steel_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/drawable/pokemon_item_water_backgrond.xml" value="0.239" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/font/pokedex_font.xml" value="0.41770833333333335" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/adapter_item_pokemon.xml" value="0.67" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/fragment_about_pokemon.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/fragment_pokemon_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/fragment_pokemon_list.xml" value="0.1" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/layout_pokedex_data.xml" value="0.365625" />
+        <entry key="..\:/Workspace/Android/pokedex/app/src/main/res/layout/type_pokemon_custom_view.xml" value="0.680921052631579" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

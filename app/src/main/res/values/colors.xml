@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryVariant">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- backgrounds -->
+    <color name="background_grass_color">#8BBE8A</color>
+    <color name="background_fire_color">#FFA756</color>
+    <color name="background_water_color">#58ABF6</color>
+    <color name="background_bug_color">#8BD674</color>
+    <color name="background_eletric_color">#F2CB55</color>
+    <color name="background_dark_color">#6F6E78</color>
+    <color name="background_dragon_color">#7383B9</color>
+    <color name="background_fairy_color">#EBA8C3</color>
+    <color name="background_fighting_color">#EB4971</color>
+    <color name="background_ghost_color">#8571BE</color>
+    <color name="background_flying_color">#83A2E3</color>
+    <color name="background_ground_color">#F78551</color>
+    <color name="background_ice_color">#91D8DF</color>
+    <color name="background_normal_color">#B5B9C4</color>
+    <color name="background_poison_color">#9F6E97</color>
+    <color name="background_pyschic_color">#FF6568</color>
+    <color name="background_rock_color">#D4C294</color>
+    <color name="background_steel_color">#4C91B2</color>
+
+    <!-- types color -->
+    <color name="type_grass_color">#62B957</color>
+    <color name="type_fire_color">#FD7D24</color>
+    <color name="type_water_color">#4A90DA</color>
+    <color name="type_bug_color">#8CB230</color>
+    <color name="type_eletric_color">#EED535</color>
+    <color name="type_dark_color">#58575F</color>
+    <color name="type_dragon_color">#0F6AC0</color>
+    <color name="type_fairy_color">#ED6EC7</color>
+    <color name="type_fighting_color">#D04164</color>
+    <color name="type_ghost_color">#556AAE</color>
+    <color name="type_flying_color">#748FC9</color>
+    <color name="type_ground_color">#DD7748</color>
+    <color name="type_ice_color">#61CEC0</color>
+    <color name="type_normal_color">#9DA0AA</color>
+    <color name="type_poison_color">#A552CC</color>
+    <color name="type_pyschic_color">#EA5D60</color>
+    <color name="type_rock_color">#BAAB82</color>
+    <color name="type_steel_color">#417D9A</color>
+
+    <!-- font color -->
+    <color name="green">#62B957</color>
+
+</resources>
